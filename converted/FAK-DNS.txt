@@ -10,7 +10,6 @@ https://dns.edison42.dev/dns-query
 [/00.net/]https://doh.pub/dns-query
 [/000.link/]https://doh.pub/dns-query
 [/000000.net/]https://doh.pub/dns-query
-[/000000.xin/]https://doh.pub/dns-query
 [/0000001.xin/]https://doh.pub/dns-query
 [/000001.xin/]https://doh.pub/dns-query
 [/00000qpqp00000.com/]https://doh.pub/dns-query
@@ -189,6 +188,7 @@ https://dns.edison42.dev/dns-query
 [/010huashi.com/]https://doh.pub/dns-query
 [/010jianzhan.com/]https://doh.pub/dns-query
 [/010lf.com/]https://doh.pub/dns-query
+[/010p.cc/]https://doh.pub/dns-query
 [/010shangpu.com/]https://doh.pub/dns-query
 [/010time.com/]https://doh.pub/dns-query
 [/010xiongdi.com/]https://doh.pub/dns-query
@@ -927,6 +927,7 @@ https://dns.edison42.dev/dns-query
 [/0762uu.com/]https://doh.pub/dns-query
 [/0763f.com/]https://doh.pub/dns-query
 [/076650.com/]https://doh.pub/dns-query
+[/07666.com/]https://doh.pub/dns-query
 [/0768000.com/]https://doh.pub/dns-query
 [/0769auto.com/]https://doh.pub/dns-query
 [/0769che.com/]https://doh.pub/dns-query
@@ -984,7 +985,6 @@ https://dns.edison42.dev/dns-query
 [/0797122.com/]https://doh.pub/dns-query
 [/0797auto.com/]https://doh.pub/dns-query
 [/0797ayzp.com/]https://doh.pub/dns-query
-[/0797pta.com/]https://doh.pub/dns-query
 [/0797rs.com/]https://doh.pub/dns-query
 [/0797tuan.com/]https://doh.pub/dns-query
 [/0797zz.com/]https://doh.pub/dns-query
@@ -1013,7 +1013,6 @@ https://dns.edison42.dev/dns-query
 [/080.xin/]https://doh.pub/dns-query
 [/0800c988e1010.beer/]https://doh.pub/dns-query
 [/0801.xin/]https://doh.pub/dns-query
-[/080210.com/]https://doh.pub/dns-query
 [/0804.org/]https://doh.pub/dns-query
 [/080e068141ea500e.com/]https://doh.pub/dns-query
 [/081.com/]https://doh.pub/dns-query
@@ -1648,7 +1647,6 @@ https://dns.edison42.dev/dns-query
 [/114dns.net/]https://doh.pub/dns-query
 [/114dnss.com/]https://doh.pub/dns-query
 [/114gh.com/]https://doh.pub/dns-query
-[/114god.com/]https://doh.pub/dns-query
 [/114guoshu.com/]https://doh.pub/dns-query
 [/114hyw.com/]https://doh.pub/dns-query
 [/114hzw.com/]https://doh.pub/dns-query
@@ -1691,7 +1689,6 @@ https://dns.edison42.dev/dns-query
 [/115vod.com/]https://doh.pub/dns-query
 [/115wg.com/]https://doh.pub/dns-query
 [/115zb.com/]https://doh.pub/dns-query
-[/11611.org/]https://doh.pub/dns-query
 [/1163.com/]https://doh.pub/dns-query
 [/1166.com/]https://doh.pub/dns-query
 [/1168.tv/]https://doh.pub/dns-query
@@ -1952,7 +1949,6 @@ https://dns.edison42.dev/dns-query
 [/128qd.com/]https://doh.pub/dns-query
 [/128sy.com/]https://doh.pub/dns-query
 [/128uu.com/]https://doh.pub/dns-query
-[/12984.academy/]https://doh.pub/dns-query
 [/12988.net/]https://doh.pub/dns-query
 [/129t.com/]https://doh.pub/dns-query
 [/12dzx.com/]https://doh.pub/dns-query
@@ -2605,7 +2601,6 @@ https://dns.edison42.dev/dns-query
 [/17toushi.com/]https://doh.pub/dns-query
 [/17track.net/]https://doh.pub/dns-query
 [/17ttt.com/]https://doh.pub/dns-query
-[/17tui.cc/]https://doh.pub/dns-query
 [/17tx.com/]https://doh.pub/dns-query
 [/17u.com/]https://doh.pub/dns-query
 [/17u.net/]https://doh.pub/dns-query
@@ -3529,7 +3524,6 @@ https://dns.edison42.dev/dns-query
 [/258zw.com/]https://doh.pub/dns-query
 [/25992.com/]https://doh.pub/dns-query
 [/25az.com/]https://doh.pub/dns-query
-[/25b92d0783e4a420.com/]https://doh.pub/dns-query
 [/25dddaa6f10261.beer/]https://doh.pub/dns-query
 [/25dir.com/]https://doh.pub/dns-query
 [/25dx.com/]https://doh.pub/dns-query
@@ -4143,7 +4137,6 @@ https://dns.edison42.dev/dns-query
 [/342200.com/]https://doh.pub/dns-query
 [/342jinbo.com/]https://doh.pub/dns-query
 [/34347.com/]https://doh.pub/dns-query
-[/34462.work/]https://doh.pub/dns-query
 [/345123.xyz/]https://doh.pub/dns-query
 [/3454.com/]https://doh.pub/dns-query
 [/3456-1.vip/]https://doh.pub/dns-query
@@ -4839,7 +4832,6 @@ https://dns.edison42.dev/dns-query
 [/3eyes.org/]https://doh.pub/dns-query
 [/3f20c121e6032c50.com/]https://doh.pub/dns-query
 [/3f4155b1310311.beer/]https://doh.pub/dns-query
-[/3f42b77c11deb5d0.com/]https://doh.pub/dns-query
 [/3f496850f89e7809.com/]https://doh.pub/dns-query
 [/3f5348d2ff43ee00.com/]https://doh.pub/dns-query
 [/3f9b37df0629ada1.com/]https://doh.pub/dns-query
@@ -6821,7 +6813,6 @@ https://dns.edison42.dev/dns-query
 [/567.org/]https://doh.pub/dns-query
 [/567030.com/]https://doh.pub/dns-query
 [/56711.com/]https://doh.pub/dns-query
-[/5676.com/]https://doh.pub/dns-query
 [/567909.xyz/]https://doh.pub/dns-query
 [/567idc.com/]https://doh.pub/dns-query
 [/568.com/]https://doh.pub/dns-query
@@ -6982,7 +6973,6 @@ https://dns.edison42.dev/dns-query
 [/58corp.com/]https://doh.pub/dns-query
 [/58dadi.com/]https://doh.pub/dns-query
 [/58daojia.com/]https://doh.pub/dns-query
-[/58dbeb66cce61162.com/]https://doh.pub/dns-query
 [/58demo.com/]https://doh.pub/dns-query
 [/58display.com/]https://doh.pub/dns-query
 [/58dns.me/]https://doh.pub/dns-query
@@ -7622,7 +7612,6 @@ https://dns.edison42.dev/dns-query
 [/6617.com/]https://doh.pub/dns-query
 [/66173yx.com/]https://doh.pub/dns-query
 [/662city.com/]https://doh.pub/dns-query
-[/662efdc1c19ba7e7.com/]https://doh.pub/dns-query
 [/662p.com/]https://doh.pub/dns-query
 [/66301cc.com/]https://doh.pub/dns-query
 [/6633488.com/]https://doh.pub/dns-query
@@ -7693,7 +7682,6 @@ https://dns.edison42.dev/dns-query
 [/668lw.com/]https://doh.pub/dns-query
 [/668map.com/]https://doh.pub/dns-query
 [/668wan.com/]https://doh.pub/dns-query
-[/669101bfdb3238f4.com/]https://doh.pub/dns-query
 [/66930909.com/]https://doh.pub/dns-query
 [/669322.com/]https://doh.pub/dns-query
 [/6695.com/]https://doh.pub/dns-query
@@ -7918,7 +7906,6 @@ https://dns.edison42.dev/dns-query
 [/6c0f63385ed13b89.com/]https://doh.pub/dns-query
 [/6c6c.com/]https://doh.pub/dns-query
 [/6c7ccba3e11031.beer/]https://doh.pub/dns-query
-[/6cd6681a68d8adfd.com/]https://doh.pub/dns-query
 [/6cit.com/]https://doh.pub/dns-query
 [/6cmap.com/]https://doh.pub/dns-query
 [/6cnzz.com/]https://doh.pub/dns-query
@@ -8049,7 +8036,6 @@ https://dns.edison42.dev/dns-query
 [/700618.com/]https://doh.pub/dns-query
 [/70098.com/]https://doh.pub/dns-query
 [/700chat.com/]https://doh.pub/dns-query
-[/700kan.cc/]https://doh.pub/dns-query
 [/700kan.com/]https://doh.pub/dns-query
 [/700live.com/]https://doh.pub/dns-query
 [/700megs.com/]https://doh.pub/dns-query
@@ -8521,7 +8507,6 @@ https://dns.edison42.dev/dns-query
 [/7dsw.com/]https://doh.pub/dns-query
 [/7e.hk/]https://doh.pub/dns-query
 [/7e051eec511021.beer/]https://doh.pub/dns-query
-[/7e0aa701c3302eb0.com/]https://doh.pub/dns-query
 [/7e9dba1891021.beer/]https://doh.pub/dns-query
 [/7east.com/]https://doh.pub/dns-query
 [/7ed.net/]https://doh.pub/dns-query
@@ -8572,7 +8557,6 @@ https://dns.edison42.dev/dns-query
 [/7luohu.com/]https://doh.pub/dns-query
 [/7lw.com/]https://doh.pub/dns-query
 [/7mah2.com/]https://doh.pub/dns-query
-[/7mo.cc/]https://doh.pub/dns-query
 [/7moor-fs1.com/]https://doh.pub/dns-query
 [/7moor-fs2.com/]https://doh.pub/dns-query
 [/7moor-zx.com/]https://doh.pub/dns-query
@@ -8782,7 +8766,6 @@ https://dns.edison42.dev/dns-query
 [/81677.com/]https://doh.pub/dns-query
 [/816798.net/]https://doh.pub/dns-query
 [/8169.com/]https://doh.pub/dns-query
-[/81728c36ac47b503.com/]https://doh.pub/dns-query
 [/81730450affbad30.com/]https://doh.pub/dns-query
 [/817398.com/]https://doh.pub/dns-query
 [/81761.com/]https://doh.pub/dns-query
@@ -8978,7 +8961,6 @@ https://dns.edison42.dev/dns-query
 [/86amsdy.com/]https://doh.pub/dns-query
 [/86bdada6e1019.beer/]https://doh.pub/dns-query
 [/86bus.com/]https://doh.pub/dns-query
-[/86c1ae3ef98b7c83.com/]https://doh.pub/dns-query
 [/86crk.com/]https://doh.pub/dns-query
 [/86ditu.com/]https://doh.pub/dns-query
 [/86dk.com/]https://doh.pub/dns-query
@@ -9033,7 +9015,6 @@ https://dns.edison42.dev/dns-query
 [/8732365.com/]https://doh.pub/dns-query
 [/8733777251212.icu/]https://doh.pub/dns-query
 [/87388v.com/]https://doh.pub/dns-query
-[/8741913426f03bc8.com/]https://doh.pub/dns-query
 [/875296.org/]https://doh.pub/dns-query
 [/875902.vip/]https://doh.pub/dns-query
 [/87654321.xyz/]https://doh.pub/dns-query
@@ -9137,7 +9118,6 @@ https://dns.edison42.dev/dns-query
 [/88887777.com/]https://doh.pub/dns-query
 [/8888800000.com/]https://doh.pub/dns-query
 [/8889997777.com/]https://doh.pub/dns-query
-[/888abc333abc.com/]https://doh.pub/dns-query
 [/888ban.com/]https://doh.pub/dns-query
 [/888chem.com/]https://doh.pub/dns-query
 [/888eee777eee.com/]https://doh.pub/dns-query
@@ -9411,7 +9391,6 @@ https://dns.edison42.dev/dns-query
 [/9111.tv/]https://doh.pub/dns-query
 [/91118.com/]https://doh.pub/dns-query
 [/91160.com/]https://doh.pub/dns-query
-[/911795.bid/]https://doh.pub/dns-query
 [/911zy.com/]https://doh.pub/dns-query
 [/912355.com/]https://doh.pub/dns-query
 [/912366.com/]https://doh.pub/dns-query
@@ -9450,7 +9429,6 @@ https://dns.edison42.dev/dns-query
 [/918dxs.com/]https://doh.pub/dns-query
 [/918fg.com/]https://doh.pub/dns-query
 [/918ka.cc/]https://doh.pub/dns-query
-[/918pll.com/]https://doh.pub/dns-query
 [/918rc.com/]https://doh.pub/dns-query
 [/919.com/]https://doh.pub/dns-query
 [/9191mr.com/]https://doh.pub/dns-query
@@ -9981,7 +9959,6 @@ https://dns.edison42.dev/dns-query
 [/96flw.com/]https://doh.pub/dns-query
 [/96hq.com/]https://doh.pub/dns-query
 [/96kaifa.com/]https://doh.pub/dns-query
-[/96kb.com/]https://doh.pub/dns-query
 [/96lh.net/]https://doh.pub/dns-query
 [/96lou.com/]https://doh.pub/dns-query
 [/96ni.net/]https://doh.pub/dns-query
@@ -10008,7 +9985,6 @@ https://dns.edison42.dev/dns-query
 [/97775.com/]https://doh.pub/dns-query
 [/9778.com/]https://doh.pub/dns-query
 [/977k.com/]https://doh.pub/dns-query
-[/977pk.com/]https://doh.pub/dns-query
 [/977zy.com/]https://doh.pub/dns-query
 [/97866.com/]https://doh.pub/dns-query
 [/9787.com/]https://doh.pub/dns-query
@@ -10315,7 +10291,6 @@ https://dns.edison42.dev/dns-query
 [/9damao.net/]https://doh.pub/dns-query
 [/9day.cc/]https://doh.pub/dns-query
 [/9db.cc/]https://doh.pub/dns-query
-[/9dd29.live/]https://doh.pub/dns-query
 [/9ddm.com/]https://doh.pub/dns-query
 [/9de3c7ffb10291.beer/]https://doh.pub/dns-query
 [/9deli.com/]https://doh.pub/dns-query
@@ -10362,7 +10337,6 @@ https://dns.edison42.dev/dns-query
 [/9host.org/]https://doh.pub/dns-query
 [/9hou.com/]https://doh.pub/dns-query
 [/9huadian.net/]https://doh.pub/dns-query
-[/9i0.com/]https://doh.pub/dns-query
 [/9i0i.com/]https://doh.pub/dns-query
 [/9icad.com/]https://doh.pub/dns-query
 [/9icode.net/]https://doh.pub/dns-query
@@ -10492,7 +10466,6 @@ https://dns.edison42.dev/dns-query
 [/a04d48409e40ca3f.com/]https://doh.pub/dns-query
 [/a0598.com/]https://doh.pub/dns-query
 [/a0770.com/]https://doh.pub/dns-query
-[/a0807e8f6a5eadc3.com/]https://doh.pub/dns-query
 [/a0bi.com/]https://doh.pub/dns-query
 [/a0c77.com/]https://doh.pub/dns-query
 [/a0d73230f9d52dfb.com/]https://doh.pub/dns-query
@@ -10640,7 +10613,6 @@ https://dns.edison42.dev/dns-query
 [/abatour.com/]https://doh.pub/dns-query
 [/abbbio.com/]https://doh.pub/dns-query
 [/abbisko.com/]https://doh.pub/dns-query
-[/abbkine.com/]https://doh.pub/dns-query
 [/abbooa.com/]https://doh.pub/dns-query
 [/abbreviat.com/]https://doh.pub/dns-query
 [/abbyschoice.net/]https://doh.pub/dns-query
@@ -12001,7 +11973,6 @@ https://dns.edison42.dev/dns-query
 [/aitecc.com/]https://doh.pub/dns-query
 [/aitechforsafety.com/]https://doh.pub/dns-query
 [/aitemall.com/]https://doh.pub/dns-query
-[/aitemple.com/]https://doh.pub/dns-query
 [/aiterent.com/]https://doh.pub/dns-query
 [/aitesu.com/]https://doh.pub/dns-query
 [/aitetech.com/]https://doh.pub/dns-query
@@ -12246,7 +12217,6 @@ https://dns.edison42.dev/dns-query
 [/alafy.com/]https://doh.pub/dns-query
 [/alai.net/]https://doh.pub/dns-query
 [/alameal.com/]https://doh.pub/dns-query
-[/alancui.cc/]https://doh.pub/dns-query
 [/alanyhq.com/]https://doh.pub/dns-query
 [/alavr.com/]https://doh.pub/dns-query
 [/alayanew.com/]https://doh.pub/dns-query
@@ -12336,7 +12306,6 @@ https://dns.edison42.dev/dns-query
 [/alicall.com/]https://doh.pub/dns-query
 [/alicdm.com/]https://doh.pub/dns-query
 [/alicdn.com/]https://doh.pub/dns-query
-[/alicdngslb.com/]https://doh.pub/dns-query
 [/alicloud.com/]https://doh.pub/dns-query
 [/alicloudapi.com/]https://doh.pub/dns-query
 [/alicloudccp.com/]https://doh.pub/dns-query
@@ -12797,7 +12766,6 @@ https://dns.edison42.dev/dns-query
 [/amuletor.com/]https://doh.pub/dns-query
 [/amuluze.com/]https://doh.pub/dns-query
 [/amunion.com/]https://doh.pub/dns-query
-[/amuren.com/]https://doh.pub/dns-query
 [/amusic.shop/]https://doh.pub/dns-query
 [/amyart360.com/]https://doh.pub/dns-query
 [/amymx.org/]https://doh.pub/dns-query
@@ -12927,7 +12895,6 @@ https://dns.edison42.dev/dns-query
 [/anhuiaia.com/]https://doh.pub/dns-query
 [/anhuicta.com/]https://doh.pub/dns-query
 [/anhuigaokao.com/]https://doh.pub/dns-query
-[/anhuigwy.org/]https://doh.pub/dns-query
 [/anhuihr.com/]https://doh.pub/dns-query
 [/anhuihuayun.com/]https://doh.pub/dns-query
 [/anhuijszp.com/]https://doh.pub/dns-query
@@ -13855,8 +13822,6 @@ https://dns.edison42.dev/dns-query
 [/as-hitech.com/]https://doh.pub/dns-query
 [/as.mr/]https://doh.pub/dns-query
 [/as01271kkp.xyz/]https://doh.pub/dns-query
-[/as01280kkp.xyz/]https://doh.pub/dns-query
-[/as01281kkp.xyz/]https://doh.pub/dns-query
 [/as02010kkp.xyz/]https://doh.pub/dns-query
 [/as16.com/]https://doh.pub/dns-query
 [/as3f.com/]https://doh.pub/dns-query
@@ -13867,7 +13832,6 @@ https://dns.edison42.dev/dns-query
 [/asatiles.com/]https://doh.pub/dns-query
 [/asattitude.com/]https://doh.pub/dns-query
 [/asbazainville.org/]https://doh.pub/dns-query
-[/asbctv.com/]https://doh.pub/dns-query
 [/asc-events.org/]https://doh.pub/dns-query
 [/asc-wines.com/]https://doh.pub/dns-query
 [/ascend-bio.com/]https://doh.pub/dns-query
@@ -14411,6 +14375,7 @@ https://dns.edison42.dev/dns-query
 [/awsdns-cn-14.com/]https://doh.pub/dns-query
 [/awsdns-cn-15.net/]https://doh.pub/dns-query
 [/awsdns-cn-16.biz/]https://doh.pub/dns-query
+[/awsdns-cn-16.net/]https://doh.pub/dns-query
 [/awsdns-cn-17.biz/]https://doh.pub/dns-query
 [/awsdns-cn-17.com/]https://doh.pub/dns-query
 [/awsdns-cn-17.net/]https://doh.pub/dns-query
@@ -14439,6 +14404,7 @@ https://dns.edison42.dev/dns-query
 [/awsdns-cn-28.net/]https://doh.pub/dns-query
 [/awsdns-cn-29.biz/]https://doh.pub/dns-query
 [/awsdns-cn-31.net/]https://doh.pub/dns-query
+[/awsdns-cn-33.biz/]https://doh.pub/dns-query
 [/awsdns-cn-33.net/]https://doh.pub/dns-query
 [/awsdns-cn-34.com/]https://doh.pub/dns-query
 [/awsdns-cn-34.net/]https://doh.pub/dns-query
@@ -14752,7 +14718,6 @@ https://dns.edison42.dev/dns-query
 [/b68f0a844eec7fff.com/]https://doh.pub/dns-query
 [/b6a531b371011.beer/]https://doh.pub/dns-query
 [/b6cc0921b1024.beer/]https://doh.pub/dns-query
-[/b6f1ea80ff0d2c06.com/]https://doh.pub/dns-query
 [/b6r.com/]https://doh.pub/dns-query
 [/b71ea195f05f569c.com/]https://doh.pub/dns-query
 [/b71ef13941015.beer/]https://doh.pub/dns-query
@@ -15124,7 +15089,6 @@ https://dns.edison42.dev/dns-query
 [/baisiterzh.com/]https://doh.pub/dns-query
 [/baisiweiting.com/]https://doh.pub/dns-query
 [/baisu.cc/]https://doh.pub/dns-query
-[/baisu.com/]https://doh.pub/dns-query
 [/baisuizhixiang.com/]https://doh.pub/dns-query
 [/baitahe.net/]https://doh.pub/dns-query
 [/baitaihuge.com/]https://doh.pub/dns-query
@@ -16595,7 +16559,6 @@ https://dns.edison42.dev/dns-query
 [/bgvalve.com/]https://doh.pub/dns-query
 [/bgwcsz.com/]https://doh.pub/dns-query
 [/bgwl.net/]https://doh.pub/dns-query
-[/bgwxc.com/]https://doh.pub/dns-query
 [/bgxcl.com/]https://doh.pub/dns-query
 [/bgxu.com/]https://doh.pub/dns-query
 [/bgyfhh.com/]https://doh.pub/dns-query
@@ -17010,7 +16973,6 @@ https://dns.edison42.dev/dns-query
 [/bingjun.cc/]https://doh.pub/dns-query
 [/binglai.net/]https://doh.pub/dns-query
 [/binglanggu.com/]https://doh.pub/dns-query
-[/binglanphoto.com/]https://doh.pub/dns-query
 [/binglianhuajianzhan.com/]https://doh.pub/dns-query
 [/bingliekeji.com/]https://doh.pub/dns-query
 [/binglixue.com/]https://doh.pub/dns-query
@@ -19199,7 +19161,6 @@ https://dns.edison42.dev/dns-query
 [/by6sx.com/]https://doh.pub/dns-query
 [/by899.com/]https://doh.pub/dns-query
 [/byai.com/]https://doh.pub/dns-query
-[/byair.cc/]https://doh.pub/dns-query
 [/bybieyang.com/]https://doh.pub/dns-query
 [/bybily.com/]https://doh.pub/dns-query
 [/byboai.com/]https://doh.pub/dns-query
@@ -19271,7 +19232,6 @@ https://dns.edison42.dev/dns-query
 [/byszc.com/]https://doh.pub/dns-query
 [/bytapp.com/]https://doh.pub/dns-query
 [/bytcm.com/]https://doh.pub/dns-query
-[/bytdq.com/]https://doh.pub/dns-query
 [/byte-dns.com/]https://doh.pub/dns-query
 [/byte-dns.net/]https://doh.pub/dns-query
 [/byte-edge.com/]https://doh.pub/dns-query
@@ -19583,7 +19543,6 @@ https://dns.edison42.dev/dns-query
 [/c7y.com/]https://doh.pub/dns-query
 [/c835249c31017.beer/]https://doh.pub/dns-query
 [/c837c4e951009.beer/]https://doh.pub/dns-query
-[/c84ba4c6025aa1ac.com/]https://doh.pub/dns-query
 [/c88a8ae86f58a489.com/]https://doh.pub/dns-query
 [/c8a8b0af81014.beer/]https://doh.pub/dns-query
 [/c9018.com/]https://doh.pub/dns-query
@@ -20777,7 +20736,6 @@ https://dns.edison42.dev/dns-query
 [/cddq120.com/]https://doh.pub/dns-query
 [/cddscj.com/]https://doh.pub/dns-query
 [/cddsgk.com/]https://doh.pub/dns-query
-[/cddtz.com/]https://doh.pub/dns-query
 [/cde-os.com/]https://doh.pub/dns-query
 [/cdea4d2cb10261.beer/]https://doh.pub/dns-query
 [/cdeaa.com/]https://doh.pub/dns-query
@@ -20866,7 +20824,6 @@ https://dns.edison42.dev/dns-query
 [/cdlsym.com/]https://doh.pub/dns-query
 [/cdlvbao.com/]https://doh.pub/dns-query
 [/cdlxqn.com/]https://doh.pub/dns-query
-[/cdmaria.com/]https://doh.pub/dns-query
 [/cdmcaac.com/]https://doh.pub/dns-query
 [/cdmddyf.com/]https://doh.pub/dns-query
 [/cdmfund.org/]https://doh.pub/dns-query
@@ -21587,7 +21544,6 @@ https://dns.edison42.dev/dns-query
 [/cgyu.com/]https://doh.pub/dns-query
 [/cgzair.com/]https://doh.pub/dns-query
 [/cgzj.com/]https://doh.pub/dns-query
-[/cgzxbb.org/]https://doh.pub/dns-query
 [/cgzy.net/]https://doh.pub/dns-query
 [/cgzyw.com/]https://doh.pub/dns-query
 [/ch-auto.com/]https://doh.pub/dns-query
@@ -23571,7 +23527,6 @@ https://dns.edison42.dev/dns-query
 [/chineseembassy.org/]https://doh.pub/dns-query
 [/chinesehongker.com/]https://doh.pub/dns-query
 [/chinesejk.com/]https://doh.pub/dns-query
-[/chinesejy.com/]https://doh.pub/dns-query
 [/chineselaw.com/]https://doh.pub/dns-query
 [/chineselighting.org/]https://doh.pub/dns-query
 [/chinesemale.com/]https://doh.pub/dns-query
@@ -24904,7 +24859,6 @@ https://dns.edison42.dev/dns-query
 [/cmgrasp.com/]https://doh.pub/dns-query
 [/cmhello.com/]https://doh.pub/dns-query
 [/cmhijs.com/]https://doh.pub/dns-query
-[/cmia.info/]https://doh.pub/dns-query
 [/cmic.site/]https://doh.pub/dns-query
 [/cmicapm.com/]https://doh.pub/dns-query
 [/cmidc.net/]https://doh.pub/dns-query
@@ -25774,7 +25728,6 @@ https://dns.edison42.dev/dns-query
 [/cnsfk.com/]https://doh.pub/dns-query
 [/cnshende.com/]https://doh.pub/dns-query
 [/cnshexinji.com/]https://doh.pub/dns-query
-[/cnshippingdev.com/]https://doh.pub/dns-query
 [/cnshiri.com/]https://doh.pub/dns-query
 [/cnshjy.com/]https://doh.pub/dns-query
 [/cnshuizu.com/]https://doh.pub/dns-query
@@ -26774,7 +26727,6 @@ https://dns.edison42.dev/dns-query
 [/cqdpt.com/]https://doh.pub/dns-query
 [/cqdting.com/]https://doh.pub/dns-query
 [/cqduoliu.com/]https://doh.pub/dns-query
-[/cqdzw.com/]https://doh.pub/dns-query
 [/cqe.cc/]https://doh.pub/dns-query
 [/cqeca.org/]https://doh.pub/dns-query
 [/cqedo.com/]https://doh.pub/dns-query
@@ -28918,7 +28870,6 @@ https://dns.edison42.dev/dns-query
 [/dajialawyer.com/]https://doh.pub/dns-query
 [/dajianet.com/]https://doh.pub/dns-query
 [/dajiang365.com/]https://doh.pub/dns-query
-[/dajiangcp.com/]https://doh.pub/dns-query
 [/dajiangsai.org/]https://doh.pub/dns-query
 [/dajiangtai.com/]https://doh.pub/dns-query
 [/dajianhui.com/]https://doh.pub/dns-query
@@ -32900,7 +32851,6 @@ https://dns.edison42.dev/dns-query
 [/dytt2028.cc/]https://doh.pub/dns-query
 [/dytt789.com/]https://doh.pub/dns-query
 [/dytt7899.com/]https://doh.pub/dns-query
-[/dytt8.com/]https://doh.pub/dns-query
 [/dytt8.net/]https://doh.pub/dns-query
 [/dytt89.com/]https://doh.pub/dns-query
 [/dytuj6zs26.com/]https://doh.pub/dns-query
@@ -33421,6 +33371,7 @@ https://dns.edison42.dev/dns-query
 [/ebama.net/]https://doh.pub/dns-query
 [/ebancom.com/]https://doh.pub/dns-query
 [/ebangchina.com/]https://doh.pub/dns-query
+[/ebank96518.com/]https://doh.pub/dns-query
 [/ebanma.com/]https://doh.pub/dns-query
 [/ebanshu.net/]https://doh.pub/dns-query
 [/ebaodai.com/]https://doh.pub/dns-query
@@ -33565,7 +33516,6 @@ https://dns.edison42.dev/dns-query
 [/eckwai.com/]https://doh.pub/dns-query
 [/ecloud.hk/]https://doh.pub/dns-query
 [/ecmc-nj.com/]https://doh.pub/dns-query
-[/ecmoban.com/]https://doh.pub/dns-query
 [/ecmould.com/]https://doh.pub/dns-query
 [/ecnpl.net/]https://doh.pub/dns-query
 [/ecnu.net/]https://doh.pub/dns-query
@@ -33642,7 +33592,6 @@ https://dns.edison42.dev/dns-query
 [/eda-china.com/]https://doh.pub/dns-query
 [/eda1024.com/]https://doh.pub/dns-query
 [/eda2.com/]https://doh.pub/dns-query
-[/eda225d55abd8c66.com/]https://doh.pub/dns-query
 [/eda365.com/]https://doh.pub/dns-query
 [/eda365.net/]https://doh.pub/dns-query
 [/eda4bf686e3ac7d4.com/]https://doh.pub/dns-query
@@ -33815,7 +33764,6 @@ https://dns.edison42.dev/dns-query
 [/eduzhai.net/]https://doh.pub/dns-query
 [/eduzhixin.com/]https://doh.pub/dns-query
 [/eduzs.net/]https://doh.pub/dns-query
-[/edvxgqx.com/]https://doh.pub/dns-query
 [/edwiv.com/]https://doh.pub/dns-query
 [/edxmy.cc/]https://doh.pub/dns-query
 [/ee-nav.com/]https://doh.pub/dns-query
@@ -34189,7 +34137,6 @@ https://dns.edison42.dev/dns-query
 [/elikeme.com/]https://doh.pub/dns-query
 [/elikeme.net/]https://doh.pub/dns-query
 [/elimautism.org/]https://doh.pub/dns-query
-[/elinastewart.shop/]https://doh.pub/dns-query
 [/eling.me/]https://doh.pub/dns-query
 [/elingka.com/]https://doh.pub/dns-query
 [/elingyun.com/]https://doh.pub/dns-query
@@ -34737,7 +34684,6 @@ https://dns.edison42.dev/dns-query
 [/esgforum.com/]https://doh.pub/dns-query
 [/esgz.com/]https://doh.pub/dns-query
 [/eshangle.com/]https://doh.pub/dns-query
-[/eshare.cc/]https://doh.pub/dns-query
 [/esheep.com/]https://doh.pub/dns-query
 [/eshenlin.com/]https://doh.pub/dns-query
 [/eshimin.com/]https://doh.pub/dns-query
@@ -35416,7 +35362,6 @@ https://dns.edison42.dev/dns-query
 [/f54321.com/]https://doh.pub/dns-query
 [/f54c463ad528b39a.com/]https://doh.pub/dns-query
 [/f567c912a077aacc.com/]https://doh.pub/dns-query
-[/f56de4830d9cc45a.com/]https://doh.pub/dns-query
 [/f5cs.com/]https://doh.pub/dns-query
 [/f5ec7553b5ec6ea3.com/]https://doh.pub/dns-query
 [/f5fa5ff8ef7379ba.com/]https://doh.pub/dns-query
@@ -35436,7 +35381,6 @@ https://dns.edison42.dev/dns-query
 [/f7yuncdn.com/]https://doh.pub/dns-query
 [/f800909401015.beer/]https://doh.pub/dns-query
 [/f8167007e7bf667d.com/]https://doh.pub/dns-query
-[/f8acf758609ac81f.com/]https://doh.pub/dns-query
 [/f8fm.com/]https://doh.pub/dns-query
 [/f92ec0629f52f064.com/]https://doh.pub/dns-query
 [/f94fa469f5680337.com/]https://doh.pub/dns-query
@@ -36179,7 +36123,6 @@ https://dns.edison42.dev/dns-query
 [/feifanindustry.com/]https://doh.pub/dns-query
 [/feifantxt.com/]https://doh.pub/dns-query
 [/feifantxt.net/]https://doh.pub/dns-query
-[/feifanwangg.com/]https://doh.pub/dns-query
 [/feifdx.com/]https://doh.pub/dns-query
 [/feifei.com/]https://doh.pub/dns-query
 [/feifeiboke.com/]https://doh.pub/dns-query
@@ -36627,6 +36570,7 @@ https://dns.edison42.dev/dns-query
 [/fhtj.com/]https://doh.pub/dns-query
 [/fhtlw.com/]https://doh.pub/dns-query
 [/fhtre.com/]https://doh.pub/dns-query
+[/fhvalley.com/]https://doh.pub/dns-query
 [/fhwlgs.com/]https://doh.pub/dns-query
 [/fhwzx.com/]https://doh.pub/dns-query
 [/fhycedu.com/]https://doh.pub/dns-query
@@ -37576,6 +37520,7 @@ https://dns.edison42.dev/dns-query
 [/freekaoyan.com/]https://doh.pub/dns-query
 [/freelycode.com/]https://doh.pub/dns-query
 [/freelynb.com/]https://doh.pub/dns-query
+[/freelynet.cloud/]https://doh.pub/dns-query
 [/freelynet.com/]https://doh.pub/dns-query
 [/freemancn.com/]https://doh.pub/dns-query
 [/freemindworld.com/]https://doh.pub/dns-query
@@ -41365,7 +41310,6 @@ https://dns.edison42.dev/dns-query
 [/grender.com/]https://doh.pub/dns-query
 [/greplay.com/]https://doh.pub/dns-query
 [/grescw.com/]https://doh.pub/dns-query
-[/gretaith.com/]https://doh.pub/dns-query
 [/gretf.com/]https://doh.pub/dns-query
 [/greyli.com/]https://doh.pub/dns-query
 [/greywolfcdn.net/]https://doh.pub/dns-query
@@ -41941,7 +41885,6 @@ https://dns.edison42.dev/dns-query
 [/guguyun.com/]https://doh.pub/dns-query
 [/guguyuyin.com/]https://doh.pub/dns-query
 [/guguzhu.com/]https://doh.pub/dns-query
-[/guhai66.com/]https://doh.pub/dns-query
 [/guhantai.com/]https://doh.pub/dns-query
 [/guhei.net/]https://doh.pub/dns-query
 [/guheshuyuan.com/]https://doh.pub/dns-query
@@ -44031,7 +43974,6 @@ https://dns.edison42.dev/dns-query
 [/gxyhgcjcxxw.com/]https://doh.pub/dns-query
 [/gxyhjgjt.com/]https://doh.pub/dns-query
 [/gxyhjt.com/]https://doh.pub/dns-query
-[/gxyhkaolin.com/]https://doh.pub/dns-query
 [/gxyhmy.net/]https://doh.pub/dns-query
 [/gxyhtz.com/]https://doh.pub/dns-query
 [/gxyhxx.com/]https://doh.pub/dns-query
@@ -45263,7 +45205,6 @@ https://dns.edison42.dev/dns-query
 [/haimaoji.com/]https://doh.pub/dns-query
 [/haimawan.com/]https://doh.pub/dns-query
 [/haimeec.com/]https://doh.pub/dns-query
-[/haimeng01.com/]https://doh.pub/dns-query
 [/haimi.com/]https://doh.pub/dns-query
 [/haimian.com/]https://doh.pub/dns-query
 [/haimin.net/]https://doh.pub/dns-query
@@ -45814,7 +45755,6 @@ https://dns.edison42.dev/dns-query
 [/haohanpower.tech/]https://doh.pub/dns-query
 [/haohanstar.com/]https://doh.pub/dns-query
 [/haohao8888.com/]https://doh.pub/dns-query
-[/haohaotuan.com/]https://doh.pub/dns-query
 [/haohaowan.com/]https://doh.pub/dns-query
 [/haohaoxiuche.com/]https://doh.pub/dns-query
 [/haohaoxz.com/]https://doh.pub/dns-query
@@ -46732,7 +46672,6 @@ https://dns.edison42.dev/dns-query
 [/hczfgjj.com/]https://doh.pub/dns-query
 [/hczl.com/]https://doh.pub/dns-query
 [/hczm1.com/]https://doh.pub/dns-query
-[/hczm2.com/]https://doh.pub/dns-query
 [/hczq.com/]https://doh.pub/dns-query
 [/hczr.com/]https://doh.pub/dns-query
 [/hczs.com/]https://doh.pub/dns-query
@@ -47077,7 +47016,6 @@ https://dns.edison42.dev/dns-query
 [/heilifun.com/]https://doh.pub/dns-query
 [/heilongjianggames.com/]https://doh.pub/dns-query
 [/heiluo.com/]https://doh.pub/dns-query
-[/heima.com/]https://doh.pub/dns-query
 [/heima010.com/]https://doh.pub/dns-query
 [/heima8.com/]https://doh.pub/dns-query
 [/heimabao.com/]https://doh.pub/dns-query
@@ -48710,7 +48648,6 @@ https://dns.edison42.dev/dns-query
 [/hnmangshan.com/]https://doh.pub/dns-query
 [/hnmcymy.com/]https://doh.pub/dns-query
 [/hnmdtv.com/]https://doh.pub/dns-query
-[/hnmfbw.com/]https://doh.pub/dns-query
 [/hnmgjr.com/]https://doh.pub/dns-query
 [/hnming.com/]https://doh.pub/dns-query
 [/hnmjyy.com/]https://doh.pub/dns-query
@@ -52138,7 +52075,6 @@ https://dns.edison42.dev/dns-query
 [/hztuoliang.com/]https://doh.pub/dns-query
 [/hztvmg.com/]https://doh.pub/dns-query
 [/hztx.com/]https://doh.pub/dns-query
-[/hztygd.com/]https://doh.pub/dns-query
 [/hztzkj.net/]https://doh.pub/dns-query
 [/hzvillas.com/]https://doh.pub/dns-query
 [/hzvtc.net/]https://doh.pub/dns-query
@@ -52455,6 +52391,7 @@ https://dns.edison42.dev/dns-query
 [/ibczy.com/]https://doh.pub/dns-query
 [/ibdxigualive.com/]https://doh.pub/dns-query
 [/ibdxiguavod.com/]https://doh.pub/dns-query
+[/ibee360.com/]https://doh.pub/dns-query
 [/ibeidiao.com/]https://doh.pub/dns-query
 [/ibeifeng.com/]https://doh.pub/dns-query
 [/ibeiig.com/]https://doh.pub/dns-query
@@ -54580,7 +54517,6 @@ https://dns.edison42.dev/dns-query
 [/ishanjian.com/]https://doh.pub/dns-query
 [/ishansong.com/]https://doh.pub/dns-query
 [/ishaohuang.com/]https://doh.pub/dns-query
-[/isharebest.com/]https://doh.pub/dns-query
 [/isharepc.com/]https://doh.pub/dns-query
 [/isheely.com/]https://doh.pub/dns-query
 [/isheji.com/]https://doh.pub/dns-query
@@ -55495,7 +55431,6 @@ https://dns.edison42.dev/dns-query
 [/jchunuo.com/]https://doh.pub/dns-query
 [/jchxmc.com/]https://doh.pub/dns-query
 [/jcjjwx.com/]https://doh.pub/dns-query
-[/jcjmhj.com/]https://doh.pub/dns-query
 [/jckjsc.com/]https://doh.pub/dns-query
 [/jcku.com/]https://doh.pub/dns-query
 [/jclab.net/]https://doh.pub/dns-query
@@ -58359,7 +58294,6 @@ https://dns.edison42.dev/dns-query
 [/jpcec.com/]https://doh.pub/dns-query
 [/jpchinapress.com/]https://doh.pub/dns-query
 [/jpcoalboss.com/]https://doh.pub/dns-query
-[/jpcq666666.com/]https://doh.pub/dns-query
 [/jpddc.com/]https://doh.pub/dns-query
 [/jpedo.com/]https://doh.pub/dns-query
 [/jpeen.com/]https://doh.pub/dns-query
@@ -61657,7 +61591,6 @@ https://dns.edison42.dev/dns-query
 [/konlan.com/]https://doh.pub/dns-query
 [/konotaku.com/]https://doh.pub/dns-query
 [/kooaoo.com/]https://doh.pub/dns-query
-[/koobai.com/]https://doh.pub/dns-query
 [/koobeemobile.com/]https://doh.pub/dns-query
 [/koobone.com/]https://doh.pub/dns-query
 [/koocdn.com/]https://doh.pub/dns-query
@@ -61859,7 +61792,6 @@ https://dns.edison42.dev/dns-query
 [/kshwtj.com/]https://doh.pub/dns-query
 [/ksjgs.com/]https://doh.pub/dns-query
 [/ksjhaoka.com/]https://doh.pub/dns-query
-[/ksjhp.com/]https://doh.pub/dns-query
 [/ksjxgs.com/]https://doh.pub/dns-query
 [/kskwai.com/]https://doh.pub/dns-query
 [/kslccb.com/]https://doh.pub/dns-query
@@ -61943,7 +61875,6 @@ https://dns.edison42.dev/dns-query
 [/ktcomposite.com/]https://doh.pub/dns-query
 [/ktctjt.com/]https://doh.pub/dns-query
 [/ktcupdate.com/]https://doh.pub/dns-query
-[/ktfdsb.com/]https://doh.pub/dns-query
 [/kting.info/]https://doh.pub/dns-query
 [/ktkt.com/]https://doh.pub/dns-query
 [/ktlshu.vip/]https://doh.pub/dns-query
@@ -64756,7 +64687,6 @@ https://dns.edison42.dev/dns-query
 [/linkheer.com/]https://doh.pub/dns-query
 [/linkiebuy.com/]https://doh.pub/dns-query
 [/linkingcloud.com/]https://doh.pub/dns-query
-[/linkingme.com/]https://doh.pub/dns-query
 [/linkist.net/]https://doh.pub/dns-query
 [/linknewideas.com/]https://doh.pub/dns-query
 [/linkoing.com/]https://doh.pub/dns-query
@@ -64976,7 +64906,6 @@ https://dns.edison42.dev/dns-query
 [/litongsupply.com/]https://doh.pub/dns-query
 [/litongtech.com/]https://doh.pub/dns-query
 [/litosim.com/]https://doh.pub/dns-query
-[/litpo.com/]https://doh.pub/dns-query
 [/litree.com/]https://doh.pub/dns-query
 [/litten.me/]https://doh.pub/dns-query
 [/little-star.love/]https://doh.pub/dns-query
@@ -65098,7 +65027,6 @@ https://dns.edison42.dev/dns-query
 [/liuxuegang.site/]https://doh.pub/dns-query
 [/liuxuehr.com/]https://doh.pub/dns-query
 [/liuxuekw.com/]https://doh.pub/dns-query
-[/liuxueshijie.com/]https://doh.pub/dns-query
 [/liuxuesmd.com/]https://doh.pub/dns-query
 [/liuxuetown.com/]https://doh.pub/dns-query
 [/liuxuewind.com/]https://doh.pub/dns-query
@@ -65275,7 +65203,6 @@ https://dns.edison42.dev/dns-query
 [/ljjlb.net/]https://doh.pub/dns-query
 [/ljjq.com/]https://doh.pub/dns-query
 [/ljjyjt.com/]https://doh.pub/dns-query
-[/ljjyw.com/]https://doh.pub/dns-query
 [/ljk.cc/]https://doh.pub/dns-query
 [/ljkangyang.com/]https://doh.pub/dns-query
 [/ljlcd.com/]https://doh.pub/dns-query
@@ -65319,7 +65246,6 @@ https://dns.edison42.dev/dns-query
 [/lkgshq.com/]https://doh.pub/dns-query
 [/lkhaowu.com/]https://doh.pub/dns-query
 [/lkjujm.com/]https://doh.pub/dns-query
-[/lkkbrand.com/]https://doh.pub/dns-query
 [/lkkcdn.com/]https://doh.pub/dns-query
 [/lkkdesign.com/]https://doh.pub/dns-query
 [/lkker.com/]https://doh.pub/dns-query
@@ -65405,7 +65331,6 @@ https://dns.edison42.dev/dns-query
 [/lmanucell.com/]https://doh.pub/dns-query
 [/lmbct.com/]https://doh.pub/dns-query
 [/lmbest.com/]https://doh.pub/dns-query
-[/lmdk01.com/]https://doh.pub/dns-query
 [/lmdouble.com/]https://doh.pub/dns-query
 [/lmengcity.com/]https://doh.pub/dns-query
 [/lmjtgs.com/]https://doh.pub/dns-query
@@ -65482,7 +65407,6 @@ https://dns.edison42.dev/dns-query
 [/lnkdjt.com/]https://doh.pub/dns-query
 [/lnlawyers.net/]https://doh.pub/dns-query
 [/lnlc2.net/]https://doh.pub/dns-query
-[/lnlc3.net/]https://doh.pub/dns-query
 [/lnldsw.com/]https://doh.pub/dns-query
 [/lnlon-zdh.com/]https://doh.pub/dns-query
 [/lnlotto.com/]https://doh.pub/dns-query
@@ -65666,7 +65590,6 @@ https://dns.edison42.dev/dns-query
 [/longde.com/]https://doh.pub/dns-query
 [/longdear.com/]https://doh.pub/dns-query
 [/longdear.net/]https://doh.pub/dns-query
-[/longdezhu.com/]https://doh.pub/dns-query
 [/longdian.com/]https://doh.pub/dns-query
 [/longdiandianli.com/]https://doh.pub/dns-query
 [/longduwang.com/]https://doh.pub/dns-query
@@ -66351,7 +66274,6 @@ https://dns.edison42.dev/dns-query
 [/lundao.pub/]https://doh.pub/dns-query
 [/luneng.com/]https://doh.pub/dns-query
 [/lungai.com/]https://doh.pub/dns-query
-[/lunhuaxiei.com/]https://doh.pub/dns-query
 [/lunkuokeji.com/]https://doh.pub/dns-query
 [/lunlunapp.com/]https://doh.pub/dns-query
 [/lunwengo.net/]https://doh.pub/dns-query
@@ -66929,7 +66851,6 @@ https://dns.edison42.dev/dns-query
 [/lyxyxx.com/]https://doh.pub/dns-query
 [/lyy99.com/]https://doh.pub/dns-query
 [/lyyapp.com/]https://doh.pub/dns-query
-[/lyyfny.com/]https://doh.pub/dns-query
 [/lyyg.com/]https://doh.pub/dns-query
 [/lyyzedu.com/]https://doh.pub/dns-query
 [/lyz810.com/]https://doh.pub/dns-query
@@ -67544,7 +67465,6 @@ https://dns.edison42.dev/dns-query
 [/malaysia-mdac.com/]https://doh.pub/dns-query
 [/maldiveszh.com/]https://doh.pub/dns-query
 [/maldun.com/]https://doh.pub/dns-query
-[/malei.net/]https://doh.pub/dns-query
 [/males120.com/]https://doh.pub/dns-query
 [/malifenlawyer.com/]https://doh.pub/dns-query
 [/malifuke.org/]https://doh.pub/dns-query
@@ -68741,6 +68661,7 @@ https://dns.edison42.dev/dns-query
 [/mengyou.org/]https://doh.pub/dns-query
 [/mengzhou.com/]https://doh.pub/dns-query
 [/mengzhuangxiu.com/]https://doh.pub/dns-query
+[/mengziyuan.com/]https://doh.pub/dns-query
 [/mengzuji.com/]https://doh.pub/dns-query
 [/menhu.io/]https://doh.pub/dns-query
 [/menksoft.com/]https://doh.pub/dns-query
@@ -69795,7 +69716,6 @@ https://dns.edison42.dev/dns-query
 [/mlnk.me/]https://doh.pub/dns-query
 [/mlnsoft.net/]https://doh.pub/dns-query
 [/mlocso.com/]https://doh.pub/dns-query
-[/mlog.club/]https://doh.pub/dns-query
 [/mlogcn.com/]https://doh.pub/dns-query
 [/mlpzes05.com/]https://doh.pub/dns-query
 [/mlqdpdgf.sbs/]https://doh.pub/dns-query
@@ -70816,7 +70736,6 @@ https://dns.edison42.dev/dns-query
 [/muwaifanzhiliao.com/]https://doh.pub/dns-query
 [/muwenxi.com/]https://doh.pub/dns-query
 [/mux5.com/]https://doh.pub/dns-query
-[/muxia.fun/]https://doh.pub/dns-query
 [/muxin.fun/]https://doh.pub/dns-query
 [/muxiulin.com/]https://doh.pub/dns-query
 [/muyangkuaibao.com/]https://doh.pub/dns-query
@@ -71231,7 +71150,6 @@ https://dns.edison42.dev/dns-query
 [/myreadme.com/]https://doh.pub/dns-query
 [/myrice.com/]https://doh.pub/dns-query
 [/myrightone.com/]https://doh.pub/dns-query
-[/myroome.com/]https://doh.pub/dns-query
 [/myrqjt.com/]https://doh.pub/dns-query
 [/myrtb.net/]https://doh.pub/dns-query
 [/myrtx.com/]https://doh.pub/dns-query
@@ -71271,6 +71189,7 @@ https://dns.edison42.dev/dns-query
 [/mysupa.com/]https://doh.pub/dns-query
 [/mysuperdns.com/]https://doh.pub/dns-query
 [/mysvw.com/]https://doh.pub/dns-query
+[/mysybt.com/]https://doh.pub/dns-query
 [/myt126.com/]https://doh.pub/dns-query
 [/mytaizhou.net/]https://doh.pub/dns-query
 [/mytanwan.com/]https://doh.pub/dns-query
@@ -72711,7 +72630,6 @@ https://dns.edison42.dev/dns-query
 [/niutk.com/]https://doh.pub/dns-query
 [/niutoushe.com/]https://doh.pub/dns-query
 [/niutrans.com/]https://doh.pub/dns-query
-[/niuwatch.com/]https://doh.pub/dns-query
 [/niuwk.com/]https://doh.pub/dns-query
 [/niuxgame77.com/]https://doh.pub/dns-query
 [/niuxiaoer.net/]https://doh.pub/dns-query
@@ -73913,7 +73831,6 @@ https://dns.edison42.dev/dns-query
 [/npmtrend.com/]https://doh.pub/dns-query
 [/npoall.com/]https://doh.pub/dns-query
 [/npodevelopment.org/]https://doh.pub/dns-query
-[/npoll.net/]https://doh.pub/dns-query
 [/npp-battery.com/]https://doh.pub/dns-query
 [/npp.cc/]https://doh.pub/dns-query
 [/npqx.com/]https://doh.pub/dns-query
@@ -73940,7 +73857,6 @@ https://dns.edison42.dev/dns-query
 [/nrbbearing.com/]https://doh.pub/dns-query
 [/nrdzqwd.com/]https://doh.pub/dns-query
 [/nrec.com/]https://doh.pub/dns-query
-[/nrenba.com/]https://doh.pub/dns-query
 [/nri-beijing.com/]https://doh.pub/dns-query
 [/nrisc.com/]https://doh.pub/dns-query
 [/nrmchina.com/]https://doh.pub/dns-query
@@ -74017,6 +73933,7 @@ https://dns.edison42.dev/dns-query
 [/nswscp.com/]https://doh.pub/dns-query
 [/nswyun.com/]https://doh.pub/dns-query
 [/nswzs.com/]https://doh.pub/dns-query
+[/nsxdns.com/]https://doh.pub/dns-query
 [/nsxww.com/]https://doh.pub/dns-query
 [/nsydt.com/]https://doh.pub/dns-query
 [/nsyhwakrkq2.com/]https://doh.pub/dns-query
@@ -74202,7 +74119,6 @@ https://dns.edison42.dev/dns-query
 [/nvcong.com/]https://doh.pub/dns-query
 [/nvgate16.nvidia.com/]https://doh.pub/dns-query
 [/nvhaiz.com/]https://doh.pub/dns-query
-[/nvhuangmm.com/]https://doh.pub/dns-query
 [/nvidia-china.com/]https://doh.pub/dns-query
 [/nvkan.com/]https://doh.pub/dns-query
 [/nvpuse.com/]https://doh.pub/dns-query
@@ -74347,7 +74263,6 @@ https://dns.edison42.dev/dns-query
 [/o-netcom.com/]https://doh.pub/dns-query
 [/o-star.cc/]https://doh.pub/dns-query
 [/o0-2.com/]https://doh.pub/dns-query
-[/o02220aokk.com/]https://doh.pub/dns-query
 [/o02231aokk.com/]https://doh.pub/dns-query
 [/o02251aokk.com/]https://doh.pub/dns-query
 [/o02260aokk.com/]https://doh.pub/dns-query
@@ -75518,7 +75433,6 @@ https://dns.edison42.dev/dns-query
 [/ox11.com/]https://doh.pub/dns-query
 [/oxbridgedu.org/]https://doh.pub/dns-query
 [/oxerr.net/]https://doh.pub/dns-query
-[/oxfordtdr.com/]https://doh.pub/dns-query
 [/oxiang.com/]https://doh.pub/dns-query
 [/oxiaohua.com/]https://doh.pub/dns-query
 [/oxiranchem.com/]https://doh.pub/dns-query
@@ -75528,7 +75442,6 @@ https://dns.edison42.dev/dns-query
 [/oya365.com/]https://doh.pub/dns-query
 [/oyalee.com/]https://doh.pub/dns-query
 [/oyewifi.com/]https://doh.pub/dns-query
-[/oygnqmj.xyz/]https://doh.pub/dns-query
 [/oym56lm.com/]https://doh.pub/dns-query
 [/oyohyee.com/]https://doh.pub/dns-query
 [/oyonyou.com/]https://doh.pub/dns-query
@@ -77576,7 +77489,6 @@ https://dns.edison42.dev/dns-query
 [/projector-jl.com/]https://doh.pub/dns-query
 [/projector-window.com/]https://doh.pub/dns-query
 [/projectserval.com/]https://doh.pub/dns-query
-[/projektenergetika.com/]https://doh.pub/dns-query
 [/proleantech.com/]https://doh.pub/dns-query
 [/prolog-int.com/]https://doh.pub/dns-query
 [/prolto.com/]https://doh.pub/dns-query
@@ -77880,7 +77792,6 @@ https://dns.edison42.dev/dns-query
 [/pv001.net/]https://doh.pub/dns-query
 [/pv138.com/]https://doh.pub/dns-query
 [/pv265.com/]https://doh.pub/dns-query
-[/pv4b.com/]https://doh.pub/dns-query
 [/pvc-diban.net/]https://doh.pub/dns-query
 [/pvc123.com/]https://doh.pub/dns-query
 [/pvpin.com/]https://doh.pub/dns-query
@@ -78640,6 +78551,7 @@ https://dns.edison42.dev/dns-query
 [/qiankungroup.com/]https://doh.pub/dns-query
 [/qiankunshopping.com/]https://doh.pub/dns-query
 [/qiankunxin.com/]https://doh.pub/dns-query
+[/qianlai778.com/]https://doh.pub/dns-query
 [/qianlaiye.com/]https://doh.pub/dns-query
 [/qianlht.com/]https://doh.pub/dns-query
 [/qianliao.net/]https://doh.pub/dns-query
@@ -79397,7 +79309,6 @@ https://dns.edison42.dev/dns-query
 [/qiyoutuo.com/]https://doh.pub/dns-query
 [/qiyouwang.com/]https://doh.pub/dns-query
 [/qiyouworld.com/]https://doh.pub/dns-query
-[/qiyqh.com/]https://doh.pub/dns-query
 [/qiytech.com/]https://doh.pub/dns-query
 [/qiyu-lighting.com/]https://doh.pub/dns-query
 [/qiyu99.com/]https://doh.pub/dns-query
@@ -80586,7 +80497,6 @@ https://dns.edison42.dev/dns-query
 [/qxiu.com/]https://doh.pub/dns-query
 [/qxjeff.com/]https://doh.pub/dns-query
 [/qxka.com/]https://doh.pub/dns-query
-[/qxkjjt.com/]https://doh.pub/dns-query
 [/qxkp.net/]https://doh.pub/dns-query
 [/qxlib.com/]https://doh.pub/dns-query
 [/qxllq.com/]https://doh.pub/dns-query
@@ -80706,7 +80616,6 @@ https://dns.edison42.dev/dns-query
 [/qyxa-tencentclb.com/]https://doh.pub/dns-query
 [/qyxa-tencentclb.net/]https://doh.pub/dns-query
 [/qyxa-tencentclb.work/]https://doh.pub/dns-query
-[/qyxby.com/]https://doh.pub/dns-query
 [/qyxxpd.com/]https://doh.pub/dns-query
 [/qyxzfw.com/]https://doh.pub/dns-query
 [/qyyt.com/]https://doh.pub/dns-query
@@ -82273,7 +82182,6 @@ https://dns.edison42.dev/dns-query
 [/ruanwenshijie.com/]https://doh.pub/dns-query
 [/ruanx.net/]https://doh.pub/dns-query
 [/ruanyuan.net/]https://doh.pub/dns-query
-[/ruanyuwang.com/]https://doh.pub/dns-query
 [/ruazi.com/]https://doh.pub/dns-query
 [/rubaoo.com/]https://doh.pub/dns-query
 [/rubbervalley.com/]https://doh.pub/dns-query
@@ -82940,7 +82848,6 @@ https://dns.edison42.dev/dns-query
 [/saniwaveltd.com/]https://doh.pub/dns-query
 [/sanjiahospital.com/]https://doh.pub/dns-query
 [/sanjiang.com/]https://doh.pub/dns-query
-[/sanjiang88.com/]https://doh.pub/dns-query
 [/sanjiangdai.com/]https://doh.pub/dns-query
 [/sanjiangtourism.com/]https://doh.pub/dns-query
 [/sanjiasoft.com/]https://doh.pub/dns-query
@@ -83405,6 +83312,7 @@ https://dns.edison42.dev/dns-query
 [/scgxhq.com/]https://doh.pub/dns-query
 [/scgxlc.com/]https://doh.pub/dns-query
 [/scgyjt.com/]https://doh.pub/dns-query
+[/scgzyun.com/]https://doh.pub/dns-query
 [/sch-szu.com/]https://doh.pub/dns-query
 [/schbrain.com/]https://doh.pub/dns-query
 [/schbrilliant.com/]https://doh.pub/dns-query
@@ -83498,6 +83406,7 @@ https://dns.edison42.dev/dns-query
 [/scjz-led.com/]https://doh.pub/dns-query
 [/scjzjyjc.com/]https://doh.pub/dns-query
 [/scjzy.net/]https://doh.pub/dns-query
+[/sckje.com/]https://doh.pub/dns-query
 [/sckrskj.com/]https://doh.pub/dns-query
 [/sckxjd.com/]https://doh.pub/dns-query
 [/scl-cn.com/]https://doh.pub/dns-query
@@ -83815,7 +83724,6 @@ https://dns.edison42.dev/dns-query
 [/sdglobaltrade.com/]https://doh.pub/dns-query
 [/sdglql.com/]https://doh.pub/dns-query
 [/sdgmjiaoyun.com/]https://doh.pub/dns-query
-[/sdgou.cc/]https://doh.pub/dns-query
 [/sdgren.com/]https://doh.pub/dns-query
 [/sdgsgcjsjt.com/]https://doh.pub/dns-query
 [/sdgsjc.com/]https://doh.pub/dns-query
@@ -84132,6 +84040,7 @@ https://dns.edison42.dev/dns-query
 [/sdxjnrqjt.com/]https://doh.pub/dns-query
 [/sdxjpc.com/]https://doh.pub/dns-query
 [/sdxl.com/]https://doh.pub/dns-query
+[/sdxli.win/]https://doh.pub/dns-query
 [/sdxlkjgf.com/]https://doh.pub/dns-query
 [/sdxnetcafe.com/]https://doh.pub/dns-query
 [/sdxsgas.com/]https://doh.pub/dns-query
@@ -84324,7 +84233,6 @@ https://dns.edison42.dev/dns-query
 [/seekhill.com/]https://doh.pub/dns-query
 [/seekingsoft.com/]https://doh.pub/dns-query
 [/seeklane.com/]https://doh.pub/dns-query
-[/seekonly.net/]https://doh.pub/dns-query
 [/seekswan.com/]https://doh.pub/dns-query
 [/seekwavetech.com/]https://doh.pub/dns-query
 [/seelvyou.com/]https://doh.pub/dns-query
@@ -85237,7 +85145,6 @@ https://dns.edison42.dev/dns-query
 [/shaoerwushu.org/]https://doh.pub/dns-query
 [/shaogefenhao.com/]https://doh.pub/dns-query
 [/shaogood.com/]https://doh.pub/dns-query
-[/shaoit.com/]https://doh.pub/dns-query
 [/shaojiu.com/]https://doh.pub/dns-query
 [/shaoke.com/]https://doh.pub/dns-query
 [/shaolinjingwu.com/]https://doh.pub/dns-query
@@ -85832,7 +85739,6 @@ https://dns.edison42.dev/dns-query
 [/shicai.biz/]https://doh.pub/dns-query
 [/shicaidai.com/]https://doh.pub/dns-query
 [/shicaizhanlan.com/]https://doh.pub/dns-query
-[/shicaotangchina.com/]https://doh.pub/dns-query
 [/shicehao.com/]https://doh.pub/dns-query
 [/shichangbu.com/]https://doh.pub/dns-query
 [/shichengbao.com/]https://doh.pub/dns-query
@@ -85884,7 +85790,6 @@ https://dns.edison42.dev/dns-query
 [/shihua-group.com/]https://doh.pub/dns-query
 [/shihuantong.com/]https://doh.pub/dns-query
 [/shihuishuo.com/]https://doh.pub/dns-query
-[/shij001.com/]https://doh.pub/dns-query
 [/shijiala.com/]https://doh.pub/dns-query
 [/shijian.cc/]https://doh.pub/dns-query
 [/shijian.org/]https://doh.pub/dns-query
@@ -86192,6 +86097,7 @@ https://dns.edison42.dev/dns-query
 [/shlhbxg.com/]https://doh.pub/dns-query
 [/shliafvzc.com/]https://doh.pub/dns-query
 [/shliangshi.com/]https://doh.pub/dns-query
+[/shlianlu.com/]https://doh.pub/dns-query
 [/shlingang.com/]https://doh.pub/dns-query
 [/shlinjiang.com/]https://doh.pub/dns-query
 [/shlitc.com/]https://doh.pub/dns-query
@@ -87713,7 +87619,6 @@ https://dns.edison42.dev/dns-query
 [/sjmeigao.com/]https://doh.pub/dns-query
 [/sjmp3.com/]https://doh.pub/dns-query
 [/sjmwsw.com/]https://doh.pub/dns-query
-[/sjmxx.com/]https://doh.pub/dns-query
 [/sjono.com/]https://doh.pub/dns-query
 [/sjooo.com/]https://doh.pub/dns-query
 [/sjpif.net/]https://doh.pub/dns-query
@@ -87990,7 +87895,6 @@ https://dns.edison42.dev/dns-query
 [/slgegc.com/]https://doh.pub/dns-query
 [/slhwyy.com/]https://doh.pub/dns-query
 [/slicejobs.com/]https://doh.pub/dns-query
-[/slicercn.com/]https://doh.pub/dns-query
 [/slidestalk.com/]https://doh.pub/dns-query
 [/slingbearings.com/]https://doh.pub/dns-query
 [/slink8.com/]https://doh.pub/dns-query
@@ -88620,7 +88524,6 @@ https://dns.edison42.dev/dns-query
 [/somsds.com/]https://doh.pub/dns-query
 [/sonbest.com/]https://doh.pub/dns-query
 [/soncci.com/]https://doh.pub/dns-query
-[/sonerovet.com/]https://doh.pub/dns-query
 [/song001.com/]https://doh.pub/dns-query
 [/songcn.com/]https://doh.pub/dns-query
 [/songcwh.com/]https://doh.pub/dns-query
@@ -88871,7 +88774,6 @@ https://dns.edison42.dev/dns-query
 [/southsurvey.com/]https://doh.pub/dns-query
 [/southyule.com/]https://doh.pub/dns-query
 [/soutiyun.com/]https://doh.pub/dns-query
-[/soutu123.com/]https://doh.pub/dns-query
 [/soutudi.so/]https://doh.pub/dns-query
 [/soutushenqi.com/]https://doh.pub/dns-query
 [/souvi.com/]https://doh.pub/dns-query
@@ -93170,7 +93072,6 @@ https://dns.edison42.dev/dns-query
 [/tengdawl.com/]https://doh.pub/dns-query
 [/tengdazuche.com/]https://doh.pub/dns-query
 [/tengen.com/]https://doh.pub/dns-query
-[/tengfang.net/]https://doh.pub/dns-query
 [/tengfangyun.com/]https://doh.pub/dns-query
 [/tengfeidn.com/]https://doh.pub/dns-query
 [/tengfeijob.com/]https://doh.pub/dns-query
@@ -94042,7 +93943,6 @@ https://dns.edison42.dev/dns-query
 [/time-weekly.com/]https://doh.pub/dns-query
 [/time-year.com/]https://doh.pub/dns-query
 [/time.izatcloud.net/]https://doh.pub/dns-query
-[/timecloud.us/]https://doh.pub/dns-query
 [/timecoo.com/]https://doh.pub/dns-query
 [/timedg.com/]https://doh.pub/dns-query
 [/timedl.com/]https://doh.pub/dns-query
@@ -94356,7 +94256,6 @@ https://dns.edison42.dev/dns-query
 [/tk-life.com/]https://doh.pub/dns-query
 [/tk-rays.com/]https://doh.pub/dns-query
 [/tk-xiong.com/]https://doh.pub/dns-query
-[/tk-zx.com/]https://doh.pub/dns-query
 [/tk.anythinktech.com/]https://doh.pub/dns-query
 [/tk163.com/]https://doh.pub/dns-query
 [/tk233.xyz/]https://doh.pub/dns-query
@@ -96302,6 +96201,7 @@ https://dns.edison42.dev/dns-query
 [/tygameworld.com/]https://doh.pub/dns-query
 [/tygckj.com/]https://doh.pub/dns-query
 [/tyh120.com/]https://doh.pub/dns-query
+[/tyhjrbl.com/]https://doh.pub/dns-query
 [/tyhjzx.com/]https://doh.pub/dns-query
 [/tyi365.com/]https://doh.pub/dns-query
 [/tyihome.com/]https://doh.pub/dns-query
@@ -96929,7 +96829,6 @@ https://dns.edison42.dev/dns-query
 [/una-ad.com/]https://doh.pub/dns-query
 [/una-campaign.com/]https://doh.pub/dns-query
 [/unachina.org/]https://doh.pub/dns-query
-[/unafeed.com/]https://doh.pub/dns-query
 [/unaming.info/]https://doh.pub/dns-query
 [/unbank.info/]https://doh.pub/dns-query
 [/uncbd.com/]https://doh.pub/dns-query
@@ -97144,7 +97043,6 @@ https://dns.edison42.dev/dns-query
 [/upchinapro.com/]https://doh.pub/dns-query
 [/upchinaproduct.com/]https://doh.pub/dns-query
 [/upd.kaspersky.com/]https://doh.pub/dns-query
-[/update-activity-lock.com/]https://doh.pub/dns-query
 [/update1.cyou/]https://doh.pub/dns-query
 [/update2.cyou/]https://doh.pub/dns-query
 [/update8.com/]https://doh.pub/dns-query
@@ -97546,7 +97444,6 @@ https://dns.edison42.dev/dns-query
 [/v114.com/]https://doh.pub/dns-query
 [/v15cdn.com/]https://doh.pub/dns-query
 [/v15i.com/]https://doh.pub/dns-query
-[/v1h5.com/]https://doh.pub/dns-query
 [/v1kf.com/]https://doh.pub/dns-query
 [/v1lady.com/]https://doh.pub/dns-query
 [/v1pin.com/]https://doh.pub/dns-query
@@ -97637,7 +97534,6 @@ https://dns.edison42.dev/dns-query
 [/vanda.cc/]https://doh.pub/dns-query
 [/vandream.com/]https://doh.pub/dns-query
 [/vanform.com/]https://doh.pub/dns-query
-[/vanfun.com/]https://doh.pub/dns-query
 [/vangelinu.com/]https://doh.pub/dns-query
 [/vangotech.com/]https://doh.pub/dns-query
 [/vanguardstars.com/]https://doh.pub/dns-query
@@ -97988,6 +97884,7 @@ https://dns.edison42.dev/dns-query
 [/videohupu.com/]https://doh.pub/dns-query
 [/videoincloud.com/]https://doh.pub/dns-query
 [/videojj.com/]https://doh.pub/dns-query
+[/videoplus.cc/]https://doh.pub/dns-query
 [/videotomp3.site/]https://doh.pub/dns-query
 [/videougc.com/]https://doh.pub/dns-query
 [/videoxiaoyouxi.com/]https://doh.pub/dns-query
@@ -99534,7 +99431,6 @@ https://dns.edison42.dev/dns-query
 [/wcxjs.com/]https://doh.pub/dns-query
 [/wcxsw.com/]https://doh.pub/dns-query
 [/wcyecs.com/]https://doh.pub/dns-query
-[/wczydns.com/]https://doh.pub/dns-query
 [/wd-ljt.com/]https://doh.pub/dns-query
 [/wdace.com/]https://doh.pub/dns-query
 [/wdad.cc/]https://doh.pub/dns-query
@@ -100903,7 +100799,6 @@ https://dns.edison42.dev/dns-query
 [/wholefreshposts.com/]https://doh.pub/dns-query
 [/whongtec.com/]https://doh.pub/dns-query
 [/whoolala.com/]https://doh.pub/dns-query
-[/whooonline.com/]https://doh.pub/dns-query
 [/whooyan.com/]https://doh.pub/dns-query
 [/whoregamer.com/]https://doh.pub/dns-query
 [/whovii.com/]https://doh.pub/dns-query
@@ -103006,7 +102901,6 @@ https://dns.edison42.dev/dns-query
 [/wydljx.com/]https://doh.pub/dns-query
 [/wydns.com/]https://doh.pub/dns-query
 [/wyduihua.com/]https://doh.pub/dns-query
-[/wydx88.com/]https://doh.pub/dns-query
 [/wyfluorine.com/]https://doh.pub/dns-query
 [/wyh138.com/]https://doh.pub/dns-query
 [/wyhef.com/]https://doh.pub/dns-query
@@ -103244,7 +103138,6 @@ https://dns.edison42.dev/dns-query
 [/x3china.com/]https://doh.pub/dns-query
 [/x3cn.com/]https://doh.pub/dns-query
 [/x431.com/]https://doh.pub/dns-query
-[/x45s1ff51v.com/]https://doh.pub/dns-query
 [/x4dp.com/]https://doh.pub/dns-query
 [/x5dj.com/]https://doh.pub/dns-query
 [/x5zs.com/]https://doh.pub/dns-query
@@ -105134,6 +105027,7 @@ https://dns.edison42.dev/dns-query
 [/xinguodu.com/]https://doh.pub/dns-query
 [/xingvps.com/]https://doh.pub/dns-query
 [/xingwajiang.com/]https://doh.pub/dns-query
+[/xingwan001.com/]https://doh.pub/dns-query
 [/xingxing.com/]https://doh.pub/dns-query
 [/xingxingbao.com/]https://doh.pub/dns-query
 [/xingxingjizhang.com/]https://doh.pub/dns-query
@@ -105257,7 +105151,6 @@ https://dns.edison42.dev/dns-query
 [/xinjunshi.net/]https://doh.pub/dns-query
 [/xinjunshicn.net/]https://doh.pub/dns-query
 [/xinke-semi.com/]https://doh.pub/dns-query
-[/xinkenwen.com/]https://doh.pub/dns-query
 [/xinkuai.com/]https://doh.pub/dns-query
 [/xinlangtupian.com/]https://doh.pub/dns-query
 [/xinlanshengbc.com/]https://doh.pub/dns-query
@@ -105800,7 +105693,6 @@ https://dns.edison42.dev/dns-query
 [/xjiyou.com/]https://doh.pub/dns-query
 [/xjjhjt.com/]https://doh.pub/dns-query
 [/xjjnjp.org/]https://doh.pub/dns-query
-[/xjjpmn3104.vip/]https://doh.pub/dns-query
 [/xjjqd154.com/]https://doh.pub/dns-query
 [/xjjsws.com/]https://doh.pub/dns-query
 [/xjjt.com/]https://doh.pub/dns-query
@@ -106363,7 +106255,6 @@ https://dns.edison42.dev/dns-query
 [/xn--tfr181fg2az43a.com/]https://doh.pub/dns-query
 [/xn--tkr55q2oa097dyxe209c.com/]https://doh.pub/dns-query
 [/xn--tlq092au7hsi3a.com/]https://doh.pub/dns-query
-[/xn--tlqp5nt6bb69g.xyz/]https://doh.pub/dns-query
 [/xn--tlqz3aj77agil76ww4ni2k.com/]https://doh.pub/dns-query
 [/xn--tqq89g2tjj5x8xs.com/]https://doh.pub/dns-query
 [/xn--uis47lp2cp2g.xn--3bst00m/]https://doh.pub/dns-query
@@ -106382,7 +106273,6 @@ https://dns.edison42.dev/dns-query
 [/xn--viq463a.com/]https://doh.pub/dns-query
 [/xn--vnuqa4644aq5c0si.xn--3ds443g/]https://doh.pub/dns-query
 [/xn--vq3a5gj6c9i.com/]https://doh.pub/dns-query
-[/xn--vuqz86auobw20f.com/]https://doh.pub/dns-query
 [/xn--vusu0mbusw10a.xn--czr694b/]https://doh.pub/dns-query
 [/xn--w9q313dfn4a.com/]https://doh.pub/dns-query
 [/xn--w9q675dm1p7em.net/]https://doh.pub/dns-query
@@ -111549,7 +111439,6 @@ https://dns.edison42.dev/dns-query
 [/yuanrengu.com/]https://doh.pub/dns-query
 [/yuanrenxue.com/]https://doh.pub/dns-query
 [/yuansfer.com/]https://doh.pub/dns-query
-[/yuanshanbx.com/]https://doh.pub/dns-query
 [/yuanshen.com/]https://doh.pub/dns-query
 [/yuanshi-sec.com/]https://doh.pub/dns-query
 [/yuanshichang.com/]https://doh.pub/dns-query
@@ -111829,6 +111718,7 @@ https://dns.edison42.dev/dns-query
 [/yujpa.com/]https://doh.pub/dns-query
 [/yujunjie.com/]https://doh.pub/dns-query
 [/yujunren.com/]https://doh.pub/dns-query
+[/yukaidi.com/]https://doh.pub/dns-query
 [/yukaiprecision.com/]https://doh.pub/dns-query
 [/yukeinfo.com/]https://doh.pub/dns-query
 [/yukeweb.com/]https://doh.pub/dns-query
@@ -111954,6 +111844,7 @@ https://dns.edison42.dev/dns-query
 [/yuncloudauth.com/]https://doh.pub/dns-query
 [/yuncname.com/]https://doh.pub/dns-query
 [/yuncode.net/]https://doh.pub/dns-query
+[/yuncuntu.com/]https://doh.pub/dns-query
 [/yund.tech/]https://doh.pub/dns-query
 [/yunda56.com/]https://doh.pub/dns-query
 [/yundaex.com/]https://doh.pub/dns-query
@@ -112470,7 +112361,6 @@ https://dns.edison42.dev/dns-query
 [/ywint.net/]https://doh.pub/dns-query
 [/ywit.xyz/]https://doh.pub/dns-query
 [/ywjinfabag.com/]https://doh.pub/dns-query
-[/ywjsgc.com/]https://doh.pub/dns-query
 [/ywkefu.com/]https://doh.pub/dns-query
 [/ywky.org/]https://doh.pub/dns-query
 [/ywlandport.com/]https://doh.pub/dns-query
@@ -113109,6 +112999,7 @@ https://dns.edison42.dev/dns-query
 [/zampdsp.com/]https://doh.pub/dns-query
 [/zamplink.net/]https://doh.pub/dns-query
 [/zamplus.com/]https://doh.pub/dns-query
+[/zan-live.com/]https://doh.pub/dns-query
 [/zanao.com/]https://doh.pub/dns-query
 [/zanba.com/]https://doh.pub/dns-query
 [/zanbai.com/]https://doh.pub/dns-query
@@ -113301,7 +113192,6 @@ https://dns.edison42.dev/dns-query
 [/zc6sigma.com/]https://doh.pub/dns-query
 [/zcaijing.com/]https://doh.pub/dns-query
 [/zcand.com/]https://doh.pub/dns-query
-[/zcapt.xyz/]https://doh.pub/dns-query
 [/zcbearing.com/]https://doh.pub/dns-query
 [/zcbgy.net/]https://doh.pub/dns-query
 [/zcbm580.com/]https://doh.pub/dns-query
@@ -115366,7 +115256,6 @@ https://dns.edison42.dev/dns-query
 [/zhuchuang.club/]https://doh.pub/dns-query
 [/zhudai.com/]https://doh.pub/dns-query
 [/zhudianquan.com/]https://doh.pub/dns-query
-[/zhudiaosz.com/]https://doh.pub/dns-query
 [/zhufaner.com/]https://doh.pub/dns-query
 [/zhufangdianping.com/]https://doh.pub/dns-query
 [/zhufengpeixun.com/]https://doh.pub/dns-query
@@ -115770,7 +115659,6 @@ https://dns.edison42.dev/dns-query
 [/zisea.com/]https://doh.pub/dns-query
 [/zisen.com/]https://doh.pub/dns-query
 [/zisha.com/]https://doh.pub/dns-query
-[/zishahuyu.com/]https://doh.pub/dns-query
 [/zishapot.com/]https://doh.pub/dns-query
 [/zishu.life/]https://doh.pub/dns-query
 [/zishuo.com/]https://doh.pub/dns-query
