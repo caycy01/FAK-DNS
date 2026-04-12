@@ -32625,6 +32625,7 @@ https://dns.edison42.dev/dns-query
 [/dubairen.com/]https://doh.pub/dns-query
 [/dubao123.com/]https://doh.pub/dns-query
 [/dubbing.tech/]https://doh.pub/dns-query
+[/dubbingx.com/]https://doh.pub/dns-query
 [/dubbo.io/]https://doh.pub/dns-query
 [/duble.live/]https://doh.pub/dns-query
 [/dubola.com/]https://doh.pub/dns-query
@@ -69219,6 +69220,7 @@ https://dns.edison42.dev/dns-query
 [/miaocode.com/]https://doh.pub/dns-query
 [/miaodiyun.com/]https://doh.pub/dns-query
 [/miaodongbar.com/]https://doh.pub/dns-query
+[/miaodongshenghuo.com/]https://doh.pub/dns-query
 [/miaogongzi.cc/]https://doh.pub/dns-query
 [/miaogongzi.net/]https://doh.pub/dns-query
 [/miaohuiyanyi.com/]https://doh.pub/dns-query
@@ -80250,6 +80252,7 @@ https://dns.edison42.dev/dns-query
 [/quaspa.com/]https://doh.pub/dns-query
 [/quazero.com/]https://doh.pub/dns-query
 [/quba360.com/]https://doh.pub/dns-query
+[/qubang.cc/]https://doh.pub/dns-query
 [/qubaobei.com/]https://doh.pub/dns-query
 [/qubiankeji.com/]https://doh.pub/dns-query
 [/qucai.com/]https://doh.pub/dns-query
@@ -95654,6 +95657,7 @@ https://dns.edison42.dev/dns-query
 [/tsg-online.net/]https://doh.pub/dns-query
 [/tsggx.com/]https://doh.pub/dns-query
 [/tsgks.com/]https://doh.pub/dns-query
+[/tsgyun.com/]https://doh.pub/dns-query
 [/tshaisen.com/]https://doh.pub/dns-query
 [/tshe.com/]https://doh.pub/dns-query
 [/tshe.me/]https://doh.pub/dns-query
@@ -110743,6 +110747,7 @@ https://dns.edison42.dev/dns-query
 [/yooek.com/]https://doh.pub/dns-query
 [/yoofh.com/]https://doh.pub/dns-query
 [/yoogene.com/]https://doh.pub/dns-query
+[/yoohe.net/]https://doh.pub/dns-query
 [/yoohouse.com/]https://doh.pub/dns-query
 [/yoojia.com/]https://doh.pub/dns-query
 [/yoojing.com/]https://doh.pub/dns-query
