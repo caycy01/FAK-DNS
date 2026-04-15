@@ -12078,6 +12078,7 @@ https://dns.edison42.dev/dns-query
 [/ailvxing.com/]https://doh.pub/dns-query
 [/aim-ec.com/]https://doh.pub/dns-query
 [/aimaker.space/]https://doh.pub/dns-query
+[/aimap.com/]https://doh.pub/dns-query
 [/aimatech.com/]https://doh.pub/dns-query
 [/aimatrix.ai/]https://doh.pub/dns-query
 [/aimcx.com/]https://doh.pub/dns-query
@@ -17738,6 +17739,7 @@ https://dns.edison42.dev/dns-query
 [/bjfqy.com/]https://doh.pub/dns-query
 [/bjfriendshiphotel.com/]https://doh.pub/dns-query
 [/bjfsali.com/]https://doh.pub/dns-query
+[/bjftfy.com/]https://doh.pub/dns-query
 [/bjfzst.com/]https://doh.pub/dns-query
 [/bjgas.com/]https://doh.pub/dns-query
 [/bjgasgh.com/]https://doh.pub/dns-query
@@ -21637,6 +21639,7 @@ https://dns.edison42.dev/dns-query
 [/cetgps.com/]https://doh.pub/dns-query
 [/cethik.com/]https://doh.pub/dns-query
 [/cetkmh.com/]https://doh.pub/dns-query
+[/cetsteam.com/]https://doh.pub/dns-query
 [/cetzig.com/]https://doh.pub/dns-query
 [/ceultimate.com/]https://doh.pub/dns-query
 [/ceve-market.org/]https://doh.pub/dns-query
@@ -35310,6 +35313,7 @@ https://dns.edison42.dev/dns-query
 [/evpartner.com/]https://doh.pub/dns-query
 [/evpowergroup.com/]https://doh.pub/dns-query
 [/evtcn.com/]https://doh.pub/dns-query
+[/evtrust.com/]https://doh.pub/dns-query
 [/evyy.net/]https://doh.pub/dns-query
 [/evzhidao.com/]https://doh.pub/dns-query
 [/evznl.org/]https://doh.pub/dns-query
@@ -37262,6 +37266,7 @@ https://dns.edison42.dev/dns-query
 [/fk100.com/]https://doh.pub/dns-query
 [/fkask.net/]https://doh.pub/dns-query
 [/fkblog.org/]https://doh.pub/dns-query
+[/fkbuff.com/]https://doh.pub/dns-query
 [/fkcaijing.com/]https://doh.pub/dns-query
 [/fkdex.com/]https://doh.pub/dns-query
 [/fkdmg.com/]https://doh.pub/dns-query
@@ -48349,6 +48354,7 @@ https://dns.edison42.dev/dns-query
 [/hivictor.net/]https://doh.pub/dns-query
 [/hiwafer.com/]https://doh.pub/dns-query
 [/hiwaysemi.com/]https://doh.pub/dns-query
+[/hiwayslaw.com/]https://doh.pub/dns-query
 [/hiwbb.com/]https://doh.pub/dns-query
 [/hiwechats.com/]https://doh.pub/dns-query
 [/hiweixiu.com/]https://doh.pub/dns-query
@@ -60070,6 +60076,7 @@ https://dns.edison42.dev/dns-query
 [/jxxdxy.com/]https://doh.pub/dns-query
 [/jxxhdn.com/]https://doh.pub/dns-query
 [/jxxhsd.com/]https://doh.pub/dns-query
+[/jxxinzhe.com/]https://doh.pub/dns-query
 [/jxxnyqc.com/]https://doh.pub/dns-query
 [/jxxs.net/]https://doh.pub/dns-query
 [/jxycqy.com/]https://doh.pub/dns-query
@@ -93162,6 +93169,7 @@ https://dns.edison42.dev/dns-query
 [/tencentcloudclub.com/]https://doh.pub/dns-query
 [/tencentcloudcore.com/]https://doh.pub/dns-query
 [/tencentcloudcr.com/]https://doh.pub/dns-query
+[/tencentcloudcs.com/]https://doh.pub/dns-query
 [/tencentcloudga.com/]https://doh.pub/dns-query
 [/tencentcloudga001.com/]https://doh.pub/dns-query
 [/tencentcloudga001.net/]https://doh.pub/dns-query
