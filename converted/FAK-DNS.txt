@@ -221,6 +221,7 @@ https://dns.edison42.dev/dns-query
 [/itunes-apple.com.akadns.net/]https://doh.pub/dns-query
 [/itunes.apple.com/]https://doh.pub/dns-query
 [/itunesconnect.apple.com/]https://doh.pub/dns-query
+[/mensura.cdn-apple.com/]https://doh.pub/dns-query
 [/mesu-cdn.apple.com.akadns.net/]https://doh.pub/dns-query
 [/mesu-china.apple.com.akadns.net/]https://doh.pub/dns-query
 [/mesu.apple.com/]https://doh.pub/dns-query
@@ -14171,6 +14172,7 @@ https://dns.edison42.dev/dns-query
 [/azuiblc.com/]https://doh.pub/dns-query
 [/azure-wave.com/]https://doh.pub/dns-query
 [/azure.cc/]https://doh.pub/dns-query
+[/azureflame.cloud/]https://doh.pub/dns-query
 [/azureflying.com/]https://doh.pub/dns-query
 [/azuremigrate.download.prss.microsoft.com/]https://doh.pub/dns-query
 [/azuremigratetest.download.prss.microsoft.com/]https://doh.pub/dns-query
@@ -16759,6 +16761,7 @@ https://dns.edison42.dev/dns-query
 [/bjartmuseum.com/]https://doh.pub/dns-query
 [/bjatv.com/]https://doh.pub/dns-query
 [/bjbaidianfeng.com/]https://doh.pub/dns-query
+[/bjbaifan.com/]https://doh.pub/dns-query
 [/bjbalb.com/]https://doh.pub/dns-query
 [/bjbaodao.net/]https://doh.pub/dns-query
 [/bjbb.com/]https://doh.pub/dns-query
@@ -19196,6 +19199,7 @@ https://dns.edison42.dev/dns-query
 [/cangfengzhe.com/]https://doh.pub/dns-query
 [/canghaiip.com/]https://doh.pub/dns-query
 [/canghaimachine.com/]https://doh.pub/dns-query
+[/cangjggame.com/]https://doh.pub/dns-query
 [/canglanghospital.com/]https://doh.pub/dns-query
 [/cangmang.xyz/]https://doh.pub/dns-query
 [/cangoonline.com/]https://doh.pub/dns-query
@@ -20816,6 +20820,7 @@ https://dns.edison42.dev/dns-query
 [/chachengji.com/]https://doh.pub/dns-query
 [/chacihai.com/]https://doh.pub/dns-query
 [/chacuo.net/]https://doh.pub/dns-query
+[/chadaodao.com/]https://doh.pub/dns-query
 [/chadianhua.net/]https://doh.pub/dns-query
 [/chadoc.com/]https://doh.pub/dns-query
 [/chaej.com/]https://doh.pub/dns-query
@@ -34728,6 +34733,7 @@ https://dns.edison42.dev/dns-query
 [/feiersmart.com/]https://doh.pub/dns-query
 [/feifandesign.com/]https://doh.pub/dns-query
 [/feifanindustry.com/]https://doh.pub/dns-query
+[/feifanmi.com/]https://doh.pub/dns-query
 [/feifantxt.com/]https://doh.pub/dns-query
 [/feifantxt.net/]https://doh.pub/dns-query
 [/feifdx.com/]https://doh.pub/dns-query
@@ -75396,6 +75402,7 @@ https://dns.edison42.dev/dns-query
 [/qingnianlvxing.com/]https://doh.pub/dns-query
 [/qingniantuzhai.com/]https://doh.pub/dns-query
 [/qingnianwang.com/]https://doh.pub/dns-query
+[/qingning88.com/]https://doh.pub/dns-query
 [/qingpanduola.com/]https://doh.pub/dns-query
 [/qingpin.vip/]https://doh.pub/dns-query
 [/qingping.co/]https://doh.pub/dns-query
@@ -92398,6 +92405,7 @@ https://dns.edison42.dev/dns-query
 [/uniow.com/]https://doh.pub/dns-query
 [/unipack-tech.com/]https://doh.pub/dns-query
 [/uniproud.com/]https://doh.pub/dns-query
+[/unisapps.com/]https://doh.pub/dns-query
 [/uniscope.com/]https://doh.pub/dns-query
 [/unisdigital.com/]https://doh.pub/dns-query
 [/unisedu.com/]https://doh.pub/dns-query
