@@ -14182,6 +14182,7 @@ https://dns.edison42.dev/dns-query
 [/b-k-automation.com/]https://doh.pub/dns-query
 [/b-raymedia.com/]https://doh.pub/dns-query
 [/b.biz/]https://doh.pub/dns-query
+[/b.c2r.ts.cdn.office.net/]https://doh.pub/dns-query
 [/b01.net/]https://doh.pub/dns-query
 [/b02f0d7f3745ba7c.com/]https://doh.pub/dns-query
 [/b041e427810281.beer/]https://doh.pub/dns-query
@@ -33939,6 +33940,7 @@ https://dns.edison42.dev/dns-query
 [/f-insight.com/]https://doh.pub/dns-query
 [/f-stack.org/]https://doh.pub/dns-query
 [/f.biz/]https://doh.pub/dns-query
+[/f.c2r.ts.cdn.office.net/]https://doh.pub/dns-query
 [/f.cx/]https://doh.pub/dns-query
 [/f008.com/]https://doh.pub/dns-query
 [/f015dfc4510292.beer/]https://doh.pub/dns-query
@@ -81380,6 +81382,7 @@ https://dns.edison42.dev/dns-query
 [/sheketiandi.com/]https://doh.pub/dns-query
 [/shekou.com/]https://doh.pub/dns-query
 [/shelive.net/]https://doh.pub/dns-query
+[/shell.cdn.office.net/]https://doh.pub/dns-query
 [/shellpub.com/]https://doh.pub/dns-query
 [/shellsec.com/]https://doh.pub/dns-query
 [/shelter-china.com/]https://doh.pub/dns-query
@@ -85200,6 +85203,7 @@ https://dns.edison42.dev/dns-query
 [/staticfile.org/]https://doh.pub/dns-query
 [/statickksmg.com/]https://doh.pub/dns-query
 [/statics.cc/]https://doh.pub/dns-query
+[/statics.teams.cdn.office.net/]https://doh.pub/dns-query
 [/staticsdd.com/]https://doh.pub/dns-query
 [/staticsoe.com/]https://doh.pub/dns-query
 [/staticsoem.com/]https://doh.pub/dns-query
@@ -85913,6 +85917,7 @@ https://dns.edison42.dev/dns-query
 [/surely.cool/]https://doh.pub/dns-query
 [/surerp.com/]https://doh.pub/dns-query
 [/surface.download.prss.microsoft.com/]https://doh.pub/dns-query
+[/surface.downloads.prss.microsoft.com/]https://doh.pub/dns-query
 [/surfacetreatmentgroup.com/]https://doh.pub/dns-query
 [/surfacetreatmenttechnology.com/]https://doh.pub/dns-query
 [/surfcg.com/]https://doh.pub/dns-query
