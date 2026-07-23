@@ -1,9 +1,7 @@
-https://sunnygyl.com/dns-query
-https://adg.geili.me/dns-query
-https://2.dns.noridev.moe/dns-query
-https://dns.nodoa.me/dns-query
-https://doh.familyshield.opendns.com/dns-query
-https://dns.edison42.dev/dns-query
+https://dns.1qccy.dpdns.org/dns-query
+https://dns.jhangy.us/dns-query
+https://dns.flymc.cc/dns-query
+https://dns.jhangy.us/dns-query
 [/265.com/]https://doh.pub/dns-query
 [/2mdn-cn.net/]https://doh.pub/dns-query
 [/2mdn.net/]https://doh.pub/dns-query
